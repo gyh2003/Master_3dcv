@@ -85,3 +85,9 @@ Now, just open one of the task notebooks and start editing.
     │   ├── validate                            <- Scripts to validate models
     │   │
     │   └── visualize                           <- Scripts to create exploratory and results oriented visualizations
+# 3DCV Students Assignment
+
+This repository contains my completed assignment for the 3D Computer Vision course.
+
+The original assignment template is from the official course GitHub:
+https://github.com/vislearn/3dcv-students
